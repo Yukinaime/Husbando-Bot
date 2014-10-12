@@ -1,4 +1,4 @@
 Husbando-Bot
 ============
 
-Bot dos husbando
+Bot dos husbandos. Eu ainda não sei como isso funciona mas vamos tentar.
